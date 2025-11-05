@@ -1,0 +1,13 @@
+{
+  "name": "emergent-computing-simulator",
+  "version": "1.0.0",
+  "description": "Simulation environment for testing emergent computing configurations",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "serve": "npx http-server . -p 8080"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
